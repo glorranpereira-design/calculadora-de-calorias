@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nutrição na Prática</string>
+    <string name="title_step_1">Vamos calcular o seu número</string>
+    <string name="subtitle_step_1">Leva 30 segundos. Sem cadastro, sem enrolação.</string>
+    <string name="title_step_2">Aqui está o seu ponto de partida</string>
+    <string name="footer_disclaimer">Ferramenta educativa baseada em fórmulas de referência amplamente utilizadas. Não substitui avaliação individual com nutricionista.</string>
+    <string name="cta_full_plan">Quero um plano completo de como aplicar isso no dia a dia</string>
+    <string name="sex_male">Masculino</string>
+    <string name="sex_female">Feminino</string>
+    <string name="goal_loss">Emagrecimento</string>
+    <string name="goal_maintenance">Manutenção</string>
+    <string name="goal_gain">Ganho de massa</string>
+    <string name="settings_title">Aparência e Tema</string>
+    <string name="theme_light">Modo Claro</string>
+    <string name="theme_dark">Modo Escuro</string>
+    <string name="theme_system">Padrão do Sistema</string>
+</resources>
